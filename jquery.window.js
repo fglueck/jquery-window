@@ -3,7 +3,7 @@
  * 
  * Changes by Frank Glück
  * Version: 5.04
- * Last Revision: 2013-10-09
+ * Last Revision: 2013-10-11
  *
  * Bugfixes
  * - better Z-Index
