@@ -373,7 +373,8 @@ $('#div').window({
 				<tr><td class="method_param"><font color="#000">∟</font> iconUrl</td>
 					<td class="method_desc"><span class="format_define">[string]</span> the image url of icon</td>
 				</tr>
-				<tr><td class="method_name">showIcon</td>
+				<tr>
+				<td class="method_name">showIcon</td>
 					<td class="method_desc">show window icon</td>
 				</tr>
 				<tr><td class="method_name">hideIcon</td>
@@ -381,3 +382,5 @@ $('#div').window({
 				</tr>
 			</tbody></table>
 		</div>
+		
+		
