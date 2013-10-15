@@ -2,7 +2,7 @@
  * jQuery Window Plugin - To Popup A Beautiful Window-like Dialog
  * 
  * Changes by Frank Glück
- * Version: 5.04
+ * Version: 5.4.1
  * Last Revision: 2013-10-11
  *
  * Bugfixes
