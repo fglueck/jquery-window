@@ -6,8 +6,8 @@
 "window",
 "jquery"
 ,"ui"
-],
-"version": "5.04",
+], 
+"version": "5.4.4",
 "author": {
 "name": "Frank Glück",
 "url": "https://github.com/fglueck/jquery-window"
