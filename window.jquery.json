@@ -1,0 +1,38 @@
+{
+"name": "window",
+"title": "jQuery Window",
+"description": "jQuery plugin for creating windows inside a webpage. Practical for reporting or webapplications.",
+"keywords": [
+"window",
+"jquery"
+,"ui"
+],
+"version": "4.0.4",
+"author": {
+"name": "Frank Glück",
+"url": "https://github.com/fglueck/jquery-window"
+},
+"maintainers": [
+{
+"name": "Frank Glück",
+"url": "http://www.dozent.net"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "https://github.com/fglueck/jquery-window/MIT-LICENSE.txt"
+},
+{
+"type": "GPL",
+"url": "https://github.com/fglueck/jquery-window/GPL-LICENSE.txt"
+}
+],
+"bugs": "https://github.com/fglueck/jquery-window/issues",
+"homepage": "https://www.dozent.net",
+"docs": "https://github.com/fglueck/jquery-window",
+"download": "https://github.com/fglueck/jquery-window",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
