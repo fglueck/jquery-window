@@ -7,14 +7,14 @@
 "jquery"
 ,"ui"
 ], 
-"version": "5.4.4",
+"version": "5.4.5",
 "author": {
-"name": "Frank Glück",
+"name": "Frank Glï¿½ck",
 "url": "https://github.com/fglueck/jquery-window"
 },
 "maintainers": [
 {
-"name": "Frank Glück",
+"name": "Frank Glï¿½ck",
 "url": "http://www.dozent.net"
 }
 ],
